@@ -49,3 +49,4 @@ Now that you know a little about us here are a few links to get you started.
   - Read more our [SIG governance and charter here](https://github.com/o3de/sig-simulation/tree/main/governance).
 - How does SIG Simulation handle issue reports and what can I do if I need help?
   - Please have a look at our [issue triage guide](https://github.com/o3de/sig-simulation/issues/13), especially the FAQ section.
+.
